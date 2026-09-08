@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:C1440E&height=180&section=header&text=Riya%20Vaishnav&fontSize=42&fontColor=FFA630&fontAlignY=45&desc=Software%20Engineer%20·%20AI%20Engineer%20·%20Full-Stack%20Developer&descAlignY=68&descSize=16&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:C1440E&height=180&section=header&text=Riya%20Vaishnav&fontSize=42&fontColor=FFA630&fontAlignY=40&desc=Full-Stack%20Developer%20%20%7C%20%20🤖%20Exploring%20AI%20Engineering&descAlignY=68&descSize=16&descColor=C9D1D9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFA630&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+CS+grad+(2026)+%7C+Full-Stack+%2B+AI-assisted+builder;%24+cat+stack.txt;%3E+Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Node.js;%24+./open_to.sh;%3E+Software+Engineer+%7C+AI+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFA630&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+with+Java+%C2%B7+Python+%C2%B7+React+%C2%B7+FastAPI;Deepening+skills+in+AI+%2F+ML+%2F+GenAI;Open+to%3A+Full-Stack+Dev+%7C+SWE+%7C+AI+Engineer" alt="Typing SVG" />
 
 ![Degree](https://img.shields.io/badge/B.Tech-CSE-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
 ![University](https://img.shields.io/badge/JECRC%20University-Jaipur-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
@@ -20,21 +20,25 @@
 
 <br>
 
-### `$ cat about.txt`
+## 🧠 About Me
 
-I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who ships full-stack systems end to end — schema to UI. I've built platforms that connect hospitals to warehouses and doctors to AI-generated reports, and I use Claude, ChatGPT, and Copilot daily as part of how I code, debug, test, and document — not as a crutch, but as a workflow.
+I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who ships full-stack systems end to end — schema to UI. I've built platforms that connect hospitals to warehouses and doctors to AI-generated reports, and I use Claude, ChatGPT, and Copilot daily as part of how I code, debug, test, and document. I'm now going a layer deeper into AI — actively building up RAG, agentic workflows, and prompt engineering skills alongside my full-stack work.
 
-```bash
-ROLE     : Software Engineer / AI Engineer / Full-Stack Developer (Fresher)
-EXP      : 0 yrs formal — 4 shipped full-stack projects, 1 hackathon (Top 50/293)
-DOMAIN   : HealthTech · Supply Chain & Logistics · Travel-Tech
-STACK    : Java · Python · SQL · JavaScript · React.js · FastAPI · Node.js
-OPEN_TO  : Software Engineer | AI Engineer | Full-Stack Developer
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🎯 **Primary** | Full-Stack Developer (Fresher) |
+| 🔭 **Also exploring** | Software Engineer · AI Engineer |
+| 🧩 **Domain focus** | Artificial Intelligence · Machine Learning · Software Engineering |
+| 🏗️ **Experience** | 0 yrs formal — 4 shipped full-stack projects, 1 hackathon (Top 50/293) |
+| 🛠️ **Core stack** | Java · Python · SQL · JavaScript · React.js · FastAPI · Node.js |
+
+</div>
 
 <br>
 
-### `$ ls tech_stack/`
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -54,21 +58,29 @@ OPEN_TO  : Software Engineer | AI Engineer | Full-Stack Developer
 
 <br>
 
-### `$ cat specialties.txt`
+## ⚡ Specialties
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-C1440E?style=for-the-badge&logo=anthropic&logoColor=FFA630&labelColor=0D1117)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-C1440E?style=for-the-badge&logo=openai&logoColor=FFA630&labelColor=0D1117)
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-C1440E?style=for-the-badge&logo=githubcopilot&logoColor=FFA630&labelColor=0D1117)
-![REST APIs](https://img.shields.io/badge/REST%20API%20Design-C1440E?style=for-the-badge&logo=fastapi&logoColor=FFA630&labelColor=0D1117)
-![Auth](https://img.shields.io/badge/JWT%2FOAuth2-C1440E?style=for-the-badge&logo=auth0&logoColor=FFA630&labelColor=0D1117)
+**Core — Full-Stack**
+<br>
+![REST APIs](https://img.shields.io/badge/REST%20API%20Design-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
+![Auth](https://img.shields.io/badge/JWT%2FOAuth2-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
+![DB Design](https://img.shields.io/badge/DB%20Schema%20Design-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
+
+**Also Exploring — AI / ML**
+<br>
+![RAG](https://img.shields.io/badge/RAG-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
+![Agentic AI](https://img.shields.io/badge/Agentic%20Workflows-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
+![Claude](https://img.shields.io/badge/Claude-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
 
 </div>
 
 <br>
 
-### `$ cat expertise.md`
+## 📊 Expertise
 
 <div align="center">
 
@@ -78,6 +90,7 @@ OPEN_TO  : Software Engineer | AI Engineer | Full-Stack Developer
 | REST API Design | 🟠🟠🟠🟠⚪ | JWT/OAuth2 auth, role-based access control, endpoint design |
 | Database Design | 🟠🟠🟠🟠⚪ | Relational schema design in MySQL/SQLite + NoSQL in MongoDB |
 | AI-Assisted Development | 🟠🟠🟠🟠🟠 | Daily use of Claude, ChatGPT, Copilot for coding, debugging, testing, docs |
+| AI / ML Engineering | 🟠🟠⚪⚪⚪ | Actively upskilling — RAG, agentic workflows, prompt engineering |
 | Data Structures & Algorithms | 🟠🟠🟠⚪⚪ | Core CS fundamentals, active practice on LeetCode |
 | Core CS Foundations | 🟠🟠🟠🟠⚪ | OS, Computer Networks, DBMS, OOP |
 
@@ -85,7 +98,7 @@ OPEN_TO  : Software Engineer | AI Engineer | Full-Stack Developer
 
 <br>
 
-### `$ ls featured_projects/ --details`
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>🏥 Drug Inventory & Supply Chain Tracking System</b> — SIH 2024</summary>
@@ -137,7 +150,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ cat experience_log.md`
+## 🏗️ Experience Log
 
 > No formal work experience yet — here's the project/hackathon track record instead.
 
@@ -156,7 +169,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ cat achievements.md`
+## 🏆 Achievements
 
 <div align="center">
 
@@ -171,7 +184,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ cat education.md`
+## 🎓 Education
 
 <div align="center">
 
@@ -181,7 +194,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ cat coding_profiles.md`
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -191,7 +204,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ ./github_analytics.sh`
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -203,7 +216,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ ./trophies.sh`
+## 🏅 Trophies
 
 <div align="center">
 
@@ -213,7 +226,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ ./activity_graph.sh`
+## 📉 Activity Graph
 
 <div align="center">
 
@@ -223,7 +236,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ ./summary_cards.sh`
+## 🗂️ Summary Cards
 
 <div align="center">
 
@@ -239,7 +252,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ ./snake.sh --dark`
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -249,9 +262,10 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-### `$ cat current_focus.yaml`
+## 🎯 Current Focus
 
 ```yaml
+primary_role: Full-Stack Developer
 learning:
   - Retrieval-Augmented Generation (RAG)
   - Agentic AI workflows & tool-calling
@@ -261,14 +275,14 @@ building:
 exploring:
   - How AI-assisted development scales into production engineering
 open_to:
+  - Full-Stack Developer   # primary
   - Software Engineer
-  - AI Engineer
-  - Full-Stack Developer
+  - AI Engineer            # actively upskilling
 ```
 
 <br>
 
-### `$ ./connect.sh`
+## 🔗 Connect
 
 <div align="center">
 
