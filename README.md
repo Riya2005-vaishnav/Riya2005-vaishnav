@@ -28,8 +28,8 @@ I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who ships full-stack 
 
 | | |
 |---|---|
-| 🎯 **Primary** | Full-Stack Developer (Fresher) |
-| 🔭 **Also exploring** | Software Engineer · AI Engineer |
+| 🎯 **Primary** | Full-Stack Developer/ Software Engineer (Fresher) |
+| 🔭 **Also exploring** |AI Engineer|
 | 🧩 **Domain focus** | Artificial Intelligence · Machine Learning · Software Engineering |
 | 🏗️ **Experience** | 0 yrs formal — 4 shipped full-stack projects, 1 hackathon (Top 50/293) |
 | 🛠️ **Core stack** | Java · Python · SQL · JavaScript · React.js · FastAPI · Node.js |
@@ -177,7 +177,6 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 |---|---|
 | 🏆 SIH 2024 — Top 50 of 293 teams | Drug Inventory & Supply Chain Tracking System; Certificate of Consolation |
 | 📜 IBM SkillBuild | Python 101 for Data Science (Jul 2025) |
-| 📜 NPTEL | Introduction to Cognitive Psychology (2023) |
 | 📜 NPTEL | Soft Skills (2024) |
 
 </div>
@@ -216,51 +215,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
-## 🏅 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Riya2005-vaishnav&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br>
-
-## 📉 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya2005-vaishnav&bg_color=0D1117&color=FFA630&line=FFA630&point=C1440E&area=true&hide_border=true"/>
-
-</div>
-
-<br>
-
-## 🗂️ Summary Cards
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riya2005-vaishnav&theme=github_dark"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riya2005-vaishnav&theme=github_dark&utcOffset=5.5" width="49%"/>
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Riya2005-vaishnav/Riya2005-vaishnav/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
 
 ## 🎯 Current Focus
 
