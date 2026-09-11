@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:C1440E&height=180&section=header&text=Riya%20Vaishnav&fontSize=42&fontColor=FFA630&fontAlignY=40&desc=Software %20Developer%20%20%7C%20%20🤖%20Exploring%20AI%20Engineering&descAlignY=68&descSize=16&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:C1440E&height=190&section=header&text=Riya%20Vaishnav&fontSize=42&fontColor=FFA630&fontAlignY=35&desc=Full-Stack%20Developer%20%2F%20Software%20Engineer&descAlignY=58&descSize=18&descColor=FFA630&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFA630&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+with+Java+%C2%B7+Python+%C2%B7+React+%C2%B7+FastAPI;Deepening+skills+in+AI+%2F+ML+%2F+GenAI;Open+to%3A+Full-Stack+Dev+%7C+SWE+%7C+AI+Engineer" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/🤖%20Also%20Exploring-AI%20Engineering-C1440E?style=flat-square&labelColor=0D1117&color=C1440E"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFA630&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%2F+Software+Engineer;Building+with+Java+%C2%B7+Python+%C2%B7+React+%C2%B7+FastAPI;Deepening+skills+in+AI+%2F+ML+%2F+GenAI;Open+to%3A+Full-Stack+Dev+%7C+SWE+%7C+AI+Engineer" alt="Typing SVG" />
 
 ![Degree](https://img.shields.io/badge/B.Tech-CSE-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
 ![University](https://img.shields.io/badge/JECRC%20University-Jaipur-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
@@ -28,8 +32,8 @@ I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who ships full-stack 
 
 | | |
 |---|---|
-| 🎯 **Primary** | Full-Stack Developer/ Software Engineer (Fresher) |
-| 🔭 **Also exploring** |AI Engineer|
+| 🎯 **Primary** | Full-Stack Developer / Software Engineer (Fresher) |
+| 🔭 **Also exploring** | AI Engineering (actively upskilling) |
 | 🧩 **Domain focus** | Artificial Intelligence · Machine Learning · Software Engineering |
 | 🏗️ **Experience** | 0 yrs formal — 4 shipped full-stack projects, 1 hackathon (Top 50/293) |
 | 🛠️ **Core stack** | Java · Python · SQL · JavaScript · React.js · FastAPI · Node.js |
@@ -62,7 +66,7 @@ I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who ships full-stack 
 
 <div align="center">
 
-**Core — Full-Stack**
+**Core — Full-Stack / Software Engineering**
 <br>
 ![REST APIs](https://img.shields.io/badge/REST%20API%20Design-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
 ![Auth](https://img.shields.io/badge/JWT%2FOAuth2-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
@@ -177,6 +181,7 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 |---|---|
 | 🏆 SIH 2024 — Top 50 of 293 teams | Drug Inventory & Supply Chain Tracking System; Certificate of Consolation |
 | 📜 IBM SkillBuild | Python 101 for Data Science (Jul 2025) |
+| 📜 NPTEL | Introduction to Cognitive Psychology (2023) |
 | 📜 NPTEL | Soft Skills (2024) |
 
 </div>
@@ -215,12 +220,56 @@ Java Servlet backend over a SQL database to manage student records and core CRUD
 
 <br>
 
+## 🏅 Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Riya2005-vaishnav&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+<br>
+
+## 📉 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya2005-vaishnav&bg_color=0D1117&color=FFA630&line=FFA630&point=C1440E&area=true&hide_border=true"/>
+
+</div>
+
+<br>
+
+## 🗂️ Summary Cards
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riya2005-vaishnav&theme=github_dark"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riya2005-vaishnav&theme=github_dark&utcOffset=5.5" width="49%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Riya2005-vaishnav/Riya2005-vaishnav/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br>
 
 ## 🎯 Current Focus
 
 ```yaml
-primary_role: Full-Stack Developer
+primary_role: Full-Stack Developer / Software Engineer
 learning:
   - Retrieval-Augmented Generation (RAG)
   - Agentic AI workflows & tool-calling
@@ -231,7 +280,7 @@ exploring:
   - How AI-assisted development scales into production engineering
 open_to:
   - Full-Stack Developer   # primary
-  - Software Engineer
+  - Software Engineer      # primary
   - AI Engineer            # actively upskilling
 ```
 
