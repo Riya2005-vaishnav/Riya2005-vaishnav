@@ -1,0 +1,16 @@
+<svg width="1100" height="290" viewBox="0 0 1100 290" xmlns="http://www.w3.org/2000/svg">
+<style>.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect x="8" y="8" width="1088" height="276" rx="14" fill="#8E2F07" opacity=".75"/>
+<rect x="0" y="0" width="1088" height="276" rx="14" fill="#0D1117" stroke="#C1440E" stroke-width="1.5"/>
+<path d="M0 14 a14 14 0 0 1 14 -14 h1060 a14 14 0 0 1 14 14 v28 h-1088z" fill="#161B22"/>
+<circle cx="28" cy="22" r="6" fill="#FF5F56"/><circle cx="50" cy="22" r="6" fill="#FFBD2E"/><circle cx="72" cy="22" r="6" fill="#27C93F"/>
+<text x="544" y="27" text-anchor="middle" font-family="'Consolas','Courier New',monospace" font-size="13" fill="#8B949E">riya.py</text>
+<text x="40" y="88" font-family="'Consolas','Courier New',monospace" font-size="17"><tspan fill="#FF7B72">class</tspan> <tspan fill="#FFA630">Riya</tspan><tspan fill="#C9D1D9">:</tspan></text>
+<text x="68" y="118" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#C9D1D9">role</text><text x="214" y="118" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#8B949E">=</text><text x="238" y="118" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#7EE787">"Software Developer · GenAI &amp; Full-Stack Engineer"</text>
+<text x="68" y="148" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#C9D1D9">based_in</text><text x="214" y="148" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#8B949E">=</text><text x="238" y="148" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#7EE787">"Jaipur, India"</text>
+<text x="68" y="178" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#C9D1D9">strengths</text><text x="214" y="178" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#8B949E">=</text><text x="238" y="178" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#7EE787">["DSA", "OOP", "DBMS", "REST APIs", "JWT auth", "LLM evaluation"]</text>
+<text x="68" y="208" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#C9D1D9">shipped</text><text x="214" y="208" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#8B949E">=</text><text x="238" y="208" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#7EE787">["Medical AI Assistant", "AppleSupport AI Agent", "SIH 2024 (Top 50/293)"]</text>
+<text x="68" y="238" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#C9D1D9">looking_for</text><text x="214" y="238" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#8B949E">=</text><text x="238" y="238" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#7EE787">"Entry-level SDE / Full-Stack / GenAI Engineer roles"</text>
+
+<text x="40" y="272" font-family="'Consolas','Courier New',monospace" font-size="17" fill="#FFA630">&gt;&gt;&gt; <tspan class="c">_</tspan></text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="1100" height="58" viewBox="0 0 1100 58" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="hb" x1="0" x2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#1F0F08"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#FFA630"/><stop offset="1" stop-color="#C1440E" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.t{font:800 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#fff}
+.n{font:600 14px 'Consolas','Courier New',monospace;fill:#FFA630}
+.g{font:500 14px 'Consolas','Courier New',monospace;fill:#FFA630;opacity:.75}
+.f{animation:fl 3s ease-in-out infinite alternate}
+@keyframes fl{from{transform:translateY(0)}to{transform:translateY(-3px)}}
+</style>
+<rect width="1100" height="56" rx="10" fill="url(#hb)"/>
+<rect y="54" width="1100" height="2" fill="url(#hl)"/>
+<g class="f"><polygon points="23.608,23.0 34,29 34,41 23.608,35.0" fill="#C1440E"/><polygon points="34,29 44.391999999999996,23.0 44.391999999999996,35.0 34,41" fill="#8E2F07"/><polygon points="34,17 44.391999999999996,23.0 34,29 23.608,23.0" fill="#FFB65C"/></g>
+<text x="64" y="36" class="t">GitHub Stats</text>
+<text x="1066" y="34" text-anchor="end" class="g">// stats</text>
+<text x="64" y="12" class="n" style="font-size:10px;opacity:.0">06</text>
+</svg>
