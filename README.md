@@ -1,303 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:C1440E&height=190&section=header&text=Riya%20Vaishnav&fontSize=42&fontColor=FFA630&fontAlignY=35&desc=Full-Stack%20Developer%20%2F%20Software%20Engineer&descAlignY=58&descSize=18&descColor=FFA630&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:C1440E&height=200&section=header&text=Riya%20Vaishnav&fontSize=46&fontColor=FFA630&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20GenAI%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
-<img src="https://img.shields.io/badge/🤖%20Also%20Exploring-AI%20Engineering-C1440E?style=flat-square&labelColor=0D1117&color=C1440E"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=FFA630&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+%26+REST+APIs;LLMs+%C2%B7+RAG+%C2%B7+Agent+Workflows+%C2%B7+Evaluation;From+data+model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+deployment;Open+to+SDE+%7C+Full-Stack+%7C+GenAI+Engineer+roles" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFA630&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%2F+Software+Engineer;Building+with+Java+%C2%B7+Python+%C2%B7+React+%C2%B7+FastAPI;Deepening+skills+in+AI+%2F+ML+%2F+GenAI;Open+to%3A+Full-Stack+Dev+%7C+SWE+%7C+AI+Engineer" alt="Typing SVG" />
-
-![Degree](https://img.shields.io/badge/B.Tech-CSE-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
-![University](https://img.shields.io/badge/JECRC%20University-Jaipur-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
-![Location](https://img.shields.io/badge/📍-Jaipur%2C%20India-C1440E?style=flat-square&labelColor=0D1117&color=FFA630)
+![Degree](https://img.shields.io/badge/B.Tech%20CSE-CGPA%208.7%2F10-C1440E?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/JECRC%20University-Class%20of%202026-C1440E?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Jaipur%2C%20India-C1440E?style=flat-square&logo=googlemaps&logoColor=FFA630&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Open%20to%20Work-FFA630?style=flat-square&labelColor=0D1117)
 
 <a href="https://www.linkedin.com/in/riya-vaishnav-1a799024a"><img src="https://img.shields.io/badge/LinkedIn-C1440E?style=for-the-badge&logo=linkedin&logoColor=FFA630&labelColor=0D1117"/></a>
 <a href="mailto:kanhavaishnav2010@gmail.com"><img src="https://img.shields.io/badge/Email-C1440E?style=for-the-badge&logo=gmail&logoColor=FFA630&labelColor=0D1117"/></a>
-<a href="https://github.com/Riya2005-vaishnav"><img src="https://img.shields.io/badge/GitHub-C1440E?style=for-the-badge&logo=github&logoColor=FFA630&labelColor=0D1117"/></a>
-
-![Views](https://komarev.com/ghpvc/?username=Riya2005-vaishnav&style=flat-square&color=FFA630&labelColor=0D1117&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Riya2005-vaishnav?style=flat-square&color=FFA630&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Riya2005-vaishnav?style=flat-square&color=FFA630&labelColor=0D1117&label=STARS)
+<a href="https://leetcode.com/u/riya_2005"><img src="https://img.shields.io/badge/LeetCode-C1440E?style=for-the-badge&logo=leetcode&logoColor=FFA630&labelColor=0D1117"/></a>
 
 </div>
 
-<br>
+---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who ships full-stack systems end to end — schema to UI. I've built platforms that connect hospitals to warehouses and doctors to AI-generated reports, and I use Claude, ChatGPT, and Copilot daily as part of how I code, debug, test, and document. I'm now going a layer deeper into AI — actively building up RAG, agentic workflows, and prompt engineering skills alongside my full-stack work.
+I'm a Computer Science graduate (B.Tech, 2026) from Jaipur who builds software **end to end**: data model → REST API → UI → deployment. 
 
-<div align="center">
+My recent work sits at the intersection of full-stack engineering and applied AI: a vision-LLM radiology assistant with a human-in-the-loop review flow, and an LLM support agent with RAG and a measured evaluation harness. I care about **grounded outputs, safe failure behavior, and numbers that prove a system works**.
 
 | | |
 |---|---|
-| 🎯 **Primary** | Full-Stack Developer / Software Engineer (Fresher) |
-| 🔭 **Also exploring** | AI Engineering (actively upskilling) |
-| 🧩 **Domain focus** | Artificial Intelligence · Machine Learning · Software Engineering |
-| 🏗️ **Experience** | 0 yrs formal — 4 shipped full-stack projects, 1 hackathon (Top 50/293) |
-| 🛠️ **Core stack** | Java · Python · SQL · JavaScript · React.js · FastAPI · Node.js |
+| 🎯 **Looking for** | Software Developer · Full-Stack Developer · GenAI / AI Engineer (entry level) |
+| 🏆 **Highlight** | Top 50 of 293 teams, Smart India Hackathon 2024 |
+| 🧠 **Strengths** | DSA, OOP, DBMS, REST API design, JWT auth, LLM evaluation |
+| 🔭 **Currently** | Going deeper into RAG, agentic workflows and LLM evaluation through applied projects |
 
-</div>
-
-<br>
+---
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" /><br>
 
-**Frameworks · Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql,sqlite,mongodb" />
+**Frameworks & Libraries**<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind" /><br>
 
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,vscode" />
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /><br>
 
-</div>
-
-<br>
-
-## ⚡ Specialties
-
-<div align="center">
-
-**Core — Full-Stack / Software Engineering**
-<br>
-![REST APIs](https://img.shields.io/badge/REST%20API%20Design-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
-![Auth](https://img.shields.io/badge/JWT%2FOAuth2-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
-![DB Design](https://img.shields.io/badge/DB%20Schema%20Design-C1440E?style=for-the-badge&logoColor=FFA630&labelColor=0D1117)
-
-**Also Exploring — AI / ML**
-<br>
-![RAG](https://img.shields.io/badge/RAG-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
-![Agentic AI](https://img.shields.io/badge/Agentic%20Workflows-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
-![Claude](https://img.shields.io/badge/Claude-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-FFA630?style=for-the-badge&labelColor=0D1117&color=FFA630)
+**Tools & Deployment**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
 
 </div>
 
-<br>
+### 🤖 AI / ML
 
-## 📊 Expertise
+![LLM Apps](https://img.shields.io/badge/LLM%20Applications-0D1117?style=flat-square&logo=openai&logoColor=FFA630&labelColor=C1440E)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=C1440E)
+![Agents](https://img.shields.io/badge/Agent%20Workflows-0D1117?style=flat-square&labelColor=C1440E)
+![Prompting](https://img.shields.io/badge/Prompt%20%26%20Few--Shot-0D1117?style=flat-square&labelColor=C1440E)
+![Gemini](https://img.shields.io/badge/Gemini%20Vision%20API-0D1117?style=flat-square&logo=googlegemini&logoColor=FFA630&labelColor=C1440E)
+![Embeddings](https://img.shields.io/badge/Embeddings%20%26%20Semantic%20Search-0D1117?style=flat-square&labelColor=C1440E)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-0D1117?style=flat-square&labelColor=C1440E)
+![Evaluation](https://img.shields.io/badge/LLM%20Evaluation%20%7C%20LLM--as--a--Judge-0D1117?style=flat-square&labelColor=C1440E)
+![HITL](https://img.shields.io/badge/Human--in--the--Loop%20Design-0D1117?style=flat-square&labelColor=C1440E)
+![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&labelColor=C1440E)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=FFA630&labelColor=C1440E)
 
-<div align="center">
+### ⚙️ Engineering
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Full-Stack Web Development | 🟠🟠🟠🟠⚪ | React.js frontends over Node.js / FastAPI / Java Servlet backends |
-| REST API Design | 🟠🟠🟠🟠⚪ | JWT/OAuth2 auth, role-based access control, endpoint design |
-| Database Design | 🟠🟠🟠🟠⚪ | Relational schema design in MySQL/SQLite + NoSQL in MongoDB |
-| AI-Assisted Development | 🟠🟠🟠🟠🟠 | Daily use of Claude, ChatGPT, Copilot for coding, debugging, testing, docs |
-| AI / ML Engineering | 🟠🟠⚪⚪⚪ | Actively upskilling — RAG, agentic workflows, prompt engineering |
-| Data Structures & Algorithms | 🟠🟠🟠⚪⚪ | Core CS fundamentals, active practice on LeetCode |
-| Core CS Foundations | 🟠🟠🟠🟠⚪ | OS, Computer Networks, DBMS, OOP |
+![REST](https://img.shields.io/badge/REST%20API%20Design-0D1117?style=flat-square&labelColor=C1440E)
+![JWT](https://img.shields.io/badge/JWT%20Auth%20%2B%20RBAC-0D1117?style=flat-square&labelColor=C1440E)
+![DB](https://img.shields.io/badge/Schema%20Design%20%7C%20SQLAlchemy-0D1117?style=flat-square&labelColor=C1440E)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20OOP-0D1117?style=flat-square&labelColor=C1440E)
+![CI](https://img.shields.io/badge/Render%20%C2%B7%20Vercel%20Deployments-0D1117?style=flat-square&labelColor=C1440E)
 
-</div>
-
-<br>
+---
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🏥 Drug Inventory & Supply Chain Tracking System</b> — SIH 2024</summary>
-<br>
+### 🩻 Medical AI Assistant: AI-Powered Radiology Report Generator
 
-Designed the relational schema and queries connecting district hospitals to warehouses to optimize supply chains and logistics planning. Delivered as a full-stack, deployable system (frontend + backend + database) as part of a hackathon team.
+A full-stack reporting tool where a **vision LLM (Google Gemini)** drafts findings and an impression from an uploaded scan, and a **doctor reviews, edits and approves** the final report. The AI never produces the final report.
 
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, Java, MySQL, HTML, CSS, JS, React.js | Team project, 293 competing teams | Reduced stockouts by **25%**; ranked **Top 50 of 293** |
+- REST API (FastAPI, SQLAlchemy, PostgreSQL) for patient management, scan upload, report generation and PDF export
+- **JWT auth with bcrypt** and role-based access, so only doctors can finalize or delete reports
+- Safety behavior: non-medical images are **flagged instead of reported as "normal"**; PDFs carry a DRAFT/FINAL banner, disclaimer, patient details and the scan (ReportLab, Pillow)
+- Owned it end to end: data model, API integration, React + Tailwind UI (patient search, scan preview, review workflow) and deployment (**Render** backend + DB, **Vercel** frontend)
 
-</details>
+`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Gemini Vision` `JWT` `Tailwind CSS` `ReportLab` `Render` `Vercel`
 
-<details>
-<summary><b>🩻 Medical AI Assistant</b> — AI-Powered Radiology Report Generator</summary>
-<br>
-
-Full-stack React + FastAPI + SQLite platform so doctors can upload radiology images and generate AI-assisted diagnostic reports. Owned the feature end to end: database → API → UI.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| React.js, FastAPI, Python, SQLAlchemy, SQLite, JWT/OAuth2, Axios | Full platform: auth, patient mgmt, image upload, report gen, PDF export | RESTful endpoints with JWT/OAuth2 auth + role-based access; React dashboard for reviewing/editing AI findings |
-
-</details>
-
-<details>
-<summary><b>✈️ Travel Planner Web App</b></summary>
-<br>
-
-Node.js backend and React frontend for trip itinerary planning and budget management, backed by MongoDB Atlas.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| React.js, Node.js, MongoDB Atlas, HTML, CSS, JS | Full-stack app with persistent storage | End-to-end itinerary + budget management workflow |
-
-</details>
-
-<details>
-<summary><b>🎓 Student Management System</b></summary>
-<br>
-
-Java Servlet backend over a SQL database to manage student records and core CRUD flows for an educational institution.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Java Servlets, SQL, HTML, CSS | Core CRUD system | Managed student records for an educational institution |
-
-</details>
+[![Repo](https://img.shields.io/badge/Source%20Code-C1440E?style=for-the-badge&logo=github&logoColor=FFA630&labelColor=0D1117)](https://github.com/Riya2005-vaishnav/medical-ai-assistant)
+<!-- TODO: add Live Demo badge -> [![Live Demo](https://img.shields.io/badge/Live%20Demo-FFA630?style=for-the-badge&labelColor=0D1117)](YOUR_VERCEL_URL) -->
 
 <br>
 
-## 🏗️ Experience Log
+### 🍎 AppleSupport AI Agent: LLM-Powered Customer Support Triage & Reply Drafting
 
-> No formal work experience yet — here's the project/hackathon track record instead.
+An agent-based Python workflow that **classifies** messages into a 7-intent taxonomy, **retrieves similar historical replies (RAG)**, **drafts a grounded reply**, and makes an explainable **auto-reply vs. escalate** decision, biased toward escalating when uncertain.
 
-**Smart India Hackathon 2024** · `Sep 2024`
-- Built the Drug Inventory & Supply Chain Tracking System with a hackathon team
-- Designed relational schema connecting district hospitals to warehouses
-- Reduced stockouts by 25% through supply chain optimization logic
-- Ranked Top 50 of 293 competing teams — Certificate of Consolation
-`Python` `Java` `MySQL` `React.js` `Team Collaboration`
+- Evaluated on a golden set: **84% intent accuracy and 94% escalation accuracy**, versus 50% / 72% for a keyword baseline and 30% / 60% for a majority-class baseline
+- Built an **LLM-as-a-judge harness** audited against human labels (**75% agreement**) and documented five failure modes with fixes
 
-**Independent Full-Stack Projects** · `2024 – 2026`
-- Shipped 4 full-stack systems solo/in small teams: healthcare, logistics, travel, and student-records domains
-- Implemented JWT/OAuth2 authentication and role-based access control in a production-style API
-- Used Claude/ChatGPT/Copilot daily across the SDLC — coding, debugging, testing, documentation
-`React.js` `FastAPI` `Node.js` `MongoDB` `MySQL` `AI-Assisted Dev`
+| Metric | Majority baseline | Keyword baseline | **This agent** |
+|---|:---:|:---:|:---:|
+| Intent accuracy | 30% | 50% | **84%** |
+| Escalation accuracy | 60% | 72% | **94%** |
+
+`Python` `LLM` `Few-shot Prompting` `RAG` `sentence-transformers` `pandas` `LLM-as-a-Judge`
+
+[![Repo](https://img.shields.io/badge/Source%20Code-C1440E?style=for-the-badge&logo=github&logoColor=FFA630&labelColor=0D1117)](https://github.com/Riya2005-vaishnav?tab=repositories)
+<!-- TODO: point the badge above to the exact repo URL, and add a demo video link if you have one -->
 
 <br>
 
-## 🏆 Achievements
+### 💊 Drug Inventory & Supply Chain Tracking System: Smart India Hackathon 2024
 
-<div align="center">
+Designed the **relational MySQL schema and queries** connecting district hospitals to warehouses to optimize supply chains, **reducing stockouts by 25%**. Delivered a deployable full-stack system with a team and ranked **Top 50 of 293 teams**.
 
-| Achievement | Detail |
+`Python` `Java` `MySQL` `SQL` `React.js` `HTML` `CSS` `JavaScript`
+
+<br>
+
+### ✈️ Travel Planner Web App
+
+Node.js backend and React frontend for **trip itinerary planning and budget management**, with persistent storage in **MongoDB Atlas**.
+
+`React.js` `Node.js` `MongoDB Atlas` `HTML` `CSS` `JavaScript`
+
+---
+
+## 🏆 Achievements & Certifications
+
+| | |
 |---|---|
-| 🏆 SIH 2024 — Top 50 of 293 teams | Drug Inventory & Supply Chain Tracking System; Certificate of Consolation |
-| 📜 IBM SkillBuild | Python 101 for Data Science (Jul 2025) |
-| 📜 NPTEL | Introduction to Cognitive Psychology (2023) |
-| 📜 NPTEL | Soft Skills (2024) |
+| 🥇 **Smart India Hackathon 2024** | Top 50 of 293 teams (Certificate of Consolation) |
+| 📜 **IBM SkillBuild** | Python 101 for Data Science (Jul 2025) |
+| 📜 **NPTEL** | Soft Skills (2024) |
 
-</div>
+---
 
-<br>
-
-## 🎓 Education
-
-<div align="center">
-
-![JECRC](https://img.shields.io/badge/JECRC%20University-B.Tech%20CSE%20·%20CGPA%208.7%2F10-C1440E?style=for-the-badge&labelColor=0D1117&color=FFA630)
-
-</div>
-
-<br>
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/riya_2005"><img src="https://img.shields.io/badge/LeetCode-C1440E?style=for-the-badge&logo=leetcode&logoColor=FFA630&labelColor=0D1117"/></a>
-
-</div>
-
-<br>
-
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Riya2005-vaishnav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA630&icon_color=C1440E&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Riya2005-vaishnav&hide_border=true&background=0D1117&stroke=FFA630&ring=FFA630&fire=C1440E&currStreakLabel=FFA630&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya2005-vaishnav&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFA630&text_color=C9D1D9" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya2005-vaishnav&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFA630&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya2005-vaishnav&hide_border=true&background=0D1117&stroke=FFA630&ring=FFA630&fire=C1440E&currStreakLabel=FFA630&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9"/>
 
 </div>
 
-<br>
+---
 
-## 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Riya2005-vaishnav&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br>
-
-## 📉 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya2005-vaishnav&bg_color=0D1117&color=FFA630&line=FFA630&point=C1440E&area=true&hide_border=true"/>
-
-</div>
-
-<br>
-
-## 🗂️ Summary Cards
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riya2005-vaishnav&theme=github_dark"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riya2005-vaishnav&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riya2005-vaishnav&theme=github_dark&utcOffset=5.5" width="49%"/>
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Riya2005-vaishnav/Riya2005-vaishnav/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
-## 🎯 Current Focus
+## 🎯 Currently
 
 ```yaml
-primary_role: Full-Stack Developer / Software Engineer
-learning:
-  - Retrieval-Augmented Generation (RAG)
-  - Agentic AI workflows & tool-calling
-  - Prompt engineering
+role_target: Software Developer / Full-Stack / GenAI Engineer
 building:
-  - Deepening GenAI/LLM skills through applied side projects
-exploring:
-  - How AI-assisted development scales into production engineering
-open_to:
-  - Full-Stack Developer   # primary
-  - Software Engineer      # primary
-  - AI Engineer            # actively upskilling
+  - Applied LLM projects with measured evaluation
+  - Agentic workflows and tool-calling
+learning:
+  - Production RAG: retrieval quality, reranking, grounding
+  - LLM evaluation: golden sets, baselines, LLM-as-a-judge
+open_to: Full-time roles and internships
 ```
 
-<br>
-
-## 🔗 Connect
-
 <div align="center">
+
+### 📫 Let's connect
 
 <a href="https://www.linkedin.com/in/riya-vaishnav-1a799024a"><img src="https://img.shields.io/badge/LinkedIn-C1440E?style=for-the-badge&logo=linkedin&logoColor=FFA630&labelColor=0D1117"/></a>
 <a href="mailto:kanhavaishnav2010@gmail.com"><img src="https://img.shields.io/badge/Email-C1440E?style=for-the-badge&logo=gmail&logoColor=FFA630&labelColor=0D1117"/></a>
-<a href="https://github.com/Riya2005-vaishnav"><img src="https://img.shields.io/badge/GitHub-C1440E?style=for-the-badge&logo=github&logoColor=FFA630&labelColor=0D1117"/></a>
 <a href="https://leetcode.com/u/riya_2005"><img src="https://img.shields.io/badge/LeetCode-C1440E?style=for-the-badge&logo=leetcode&logoColor=FFA630&labelColor=0D1117"/></a>
 
 <br><br>
 
-*"Ship the schema, ship the UI, ship the whole thing."*
+*Ship the schema, ship the UI, ship the whole thing.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:C1440E&height=100&section=footer" width="100%"/>
 
